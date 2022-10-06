@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js and working with UI frameworks like Chakra UI and TailwindCSS**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source and working on teams**
 
 - 🤝 I’m looking for help with **Typescript**
 
