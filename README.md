@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <img align="center" alt="banner" src="./assets/banner.png" width="100%" />
 <h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/facuperezm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="facuperezm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/facuperezm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facuperezm" height="30" width="40" /></a>
+</p>
 
 - 🔭 I’m currently working on **My portfolio**
 
@@ -11,12 +16,6 @@
 - 🤝 I’m looking for help with **Typescript**
 
 - 📫 How to reach me **facundoperezmontalvo@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/facuperezm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="facuperezm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/facuperezm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facuperezm" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
