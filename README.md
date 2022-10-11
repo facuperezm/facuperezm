@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
+<img align="center" alt="banner" src="./assets/banner.png" width="100%" />
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🔭 I’m currently working on **My portfolio**
