@@ -16,7 +16,6 @@
 - 💻 I’m currently freelancing.
 - 🌱 I’m currently working with [React](https://reactjs.org) and [Next.js](https://nextjs.org/).
 - 👷‍♂️ Currently working on my personal website.
-<br />
 
 ## Languages and Tools
 <p align="left"> 
