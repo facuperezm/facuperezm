@@ -13,7 +13,7 @@
 
 ## What i'm up to
 
-- 💻 I’m currently freelancing.
+- 💻 I’m doing freelance work for local businesses
 - 🌱 I’m currently working with [React](https://reactjs.org) and [Next.js](https://nextjs.org/).
 - 👷‍♂️ Currently working on my personal website.
 
