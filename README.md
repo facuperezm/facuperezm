@@ -1,8 +1,6 @@
-<img align="center" alt="banner" src="./assets/banner.png" width="100%" />
 <h1 align="center">Hello world, I'm Facu 👋</h1>
+<img align="center" alt="banner" src="./assets/banner.png" width="100%" />
 <h3 align="center">Frontend Developer from Argentina</h3>
-
-### Connect with me:
 <a href="https://twitter.com/facuperezm" align="center">
 <img align="center" alt="Facundo Perez Montalvos Twitter Account" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" />
 </a>
