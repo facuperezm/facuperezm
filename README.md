@@ -4,12 +4,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <a href="https://twitter.com/facuperezm">
-<img align="left" alt="Facundo Perez Montalvos Twitter Account" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" />
+<img align="center" alt="Facundo Perez Montalvos Twitter Account" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" />
 </a>
 <a href="https://linkedin.com/in/facuperezm">
-<img align="left" alt="Facundo Perez Montalvos Linkedin Account" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=ffffff" />
+<img align="center" alt="Facundo Perez Montalvos Linkedin Account" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=ffffff" />
 </a>
 <br />
+
 ## What i'm up to
 
 - 💻 I’m currently freelancing.
