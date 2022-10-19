@@ -1,21 +1,26 @@
-<h1 align="center">Hi 👋, I'm Facundo</h1>
 <img align="center" alt="banner" src="./assets/banner.png" width="100%" />
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hello world, I'm Facu 👋</h1>
+<h3 align="center">Frontend Developer from Argentina</h3>
+
+<br/>
+
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/facuperezm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="facuperezm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/facuperezm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facuperezm" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/facuperezm">
+<img align="left" alt="Facundo Perez Montalvos Twitter Account" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" />
+</a>
+<a href="https://linkedin.com/in/facuperezm">
+<img align="left" alt="Facundo Perez Montalvos Linkedin Account" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=ffffff" />
+</a>
 
-- 🔭 I’m currently working on **My portfolio**
+<br />
 
-- 🌱 I’m currently learning **Next.js and working with UI frameworks like Chakra UI and TailwindCSS**
+## What i'm up to
 
-- 👯 I’m looking to collaborate on **Open Source and big products**
+- 💻 I’m currently freelancing.
+- 🌱 I’m currently working with [React](https://reactjs.org) and [Next.js](https://nextjs.org/).
+- 👷‍♂️ Currently working on my personal website.
 
-- 🤝 I’m looking for help with **Typescript**
-
-- 📫 How to reach me **facundoperezmontalvo@gmail.com**
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
