@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I'm Facu 👋</h1>
+<h1 align="center">Hello world, I'm Facundo 👋</h1>
 <img align="center" alt="banner" src="./assets/banner.png" width="100%" />
 <h3 align="center">Frontend Developer from Argentina</h3>
 
