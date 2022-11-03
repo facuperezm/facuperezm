@@ -1,6 +1,5 @@
 <img align="center" alt="banner" src="./assets/banner.png" width="100%" />
-<h2 align="center">Hello world, I'm Facundo 👋</h2>
-<h3 align="center">Frontend Developer from Argentina</h3>
+<h2 align="center">Hello world, I'm Facundo 👋 Frontend Developer from Argentina</h2>
 
 ### Connect with me
 <a href="https://twitter.com/facuperezm" align="center">
