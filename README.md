@@ -1,5 +1,5 @@
 <img align="center" alt="banner" src="./assets/banner.png" width="100%" />
-<h1 align="center">Hello world, I'm Facundo 👋</h1>
+<h2 align="center">Hello world, I'm Facundo 👋</h2>
 <h3 align="center">Frontend Developer from Argentina</h3>
 
 ### Connect with me
