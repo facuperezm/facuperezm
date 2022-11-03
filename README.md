@@ -1,5 +1,5 @@
 <img align="center" alt="banner" src="./assets/banner.png" width="100%" />
-<h2 align="center">Hello world, I'm a Frontend Developer from Argentina looking for new opportunities</h2>
+<h3 align="center">Hello world, I'm a Frontend Developer from Argentina looking for new opportunities</h3>
 
 ### Connect with me
 <a href="https://twitter.com/facuperezm" align="center">
