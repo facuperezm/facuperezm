@@ -5,14 +5,8 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://facuperezm.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facuperezm/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/facuperezm)
 
-<a href="https://twitter.com/facuperezm" align="center">
-<img align="center" alt="Facundo Perez Montalvos Twitter Account" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" />
-</a>
-<a href="https://linkedin.com/in/facuperezm" align="center">
-<img align="center" alt="Facundo Perez Montalvos Linkedin Account" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=ffffff" />
-</a>
-<br />
 
 ## What i'm up to
 
