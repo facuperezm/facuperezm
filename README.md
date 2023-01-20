@@ -11,7 +11,7 @@
 ## What i'm up to
 
 - 💻 I’m doing freelance work for local businesses
-- 🌱 I’m currently working with [React](https://reactjs.org) and [Next.js](https://nextjs.org/) and learning [Typescript](https://www.typescriptlang.org/).
+- 🌱 I’m currently working with [React](https://reactjs.org) and [Next.js](https://nextjs.org/) and [Typescript](https://www.typescriptlang.org/).
 - 👷‍♂️ Currently working on my personal website.
 
 ## Languages and Tools
