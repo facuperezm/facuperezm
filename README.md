@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="./assets/banner.jpg" width="100%" />
+<img align="center" alt="banner" src="./banner.png" width="100%" />
 <h3 align="center">Hello world 👋 I'm a Frontend Developer from Argentina looking for new opportunities</h3>
 
 ### Connect with me
