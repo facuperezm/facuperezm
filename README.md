@@ -1,5 +1,3 @@
-## What i'm up to
-
 - 💻 I’m doing freelance work for local businesses
 - 🌱 I’m currently working with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
 - 🌈 <i>Looking for a developer role.</i>
