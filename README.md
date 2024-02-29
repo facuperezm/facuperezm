@@ -1,6 +1,6 @@
 - 💻 I’m doing freelance work for local businesses
-- 🌱 I’m currently working with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
-- 🌈 <i>Looking for a developer role.</i>
+- 🌱 I love working with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
+- 🌈 <i>Looking for my first developer role.</i>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://facuperezm.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facuperezm/)
