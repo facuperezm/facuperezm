@@ -1,4 +1,4 @@
-- 💻 I’m doing freelance work for local businesses.
+- 💻 Currently learning about integrating MercadoPago SDK to my app.
 - 🌱 I love working with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
 - 🌈 <i>Looking for a frontend developer role.</i>
 
