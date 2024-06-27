@@ -1,4 +1,4 @@
-- 💻 Currently learning about integrating MercadoPago SDK to my app.
+- 💻 Currently learning about testing.
 - 🌱 I love working with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
 - 🌈 <i>Looking for a frontend developer role.</i>
 
