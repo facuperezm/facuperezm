@@ -1,4 +1,4 @@
-## Hey! 🙋‍♂️ This is Facundo
+## Hey! 🙋‍♂️ I'm Facundo
 
 - 💻 Currently learning about testing.
 - 🌱 I love working with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
