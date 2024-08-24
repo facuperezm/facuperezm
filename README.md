@@ -1,6 +1,6 @@
 ## Hey! 🙋‍♂️ I'm Facundo
 
-- 💻 Currently learning about testing.
+- 💻 Currently learning about testing and diving deep into JS.
 - 🌱 I love working with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
 - 🌈 <i>Looking for a frontend developer role.</i>
 
