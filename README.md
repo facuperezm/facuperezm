@@ -4,7 +4,7 @@
 
 I build polished product interfaces, translate design systems into production-ready code, and collaborate across product, QA, and backend teams to ship reliable user experiences.
 
-Currently building at **Storied** through **Svitla Systems** — focused on frontend modernization, design implementation, performance, and cross-team leadership.
+Currently building at **Svitla Systems** — focused on frontend modernization, design implementation, performance, and cross-team leadership.
 
 Based in Argentina 🇦🇷 | Open to senior frontend opportunities
 
